@@ -1,4 +1,4 @@
-# Vuew Boilerplate
+# Vue Boilerplate
 
 > Vue Boilerplate
 
